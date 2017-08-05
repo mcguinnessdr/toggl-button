@@ -524,5 +524,9 @@
   "teamleader.eu": {
     "url": "*://app.teamleader.eu/*",
     "name": "Teamleader"
+  },
+  "hacknplan.com": {
+    "url": "*://app.hacknplan.com/*",
+    "name": "HackNPlan"
   }
 }
